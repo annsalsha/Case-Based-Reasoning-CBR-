@@ -47,3 +47,4 @@ python Script_03_retrieval.py
 /data/results/       → File hasil prediksi (`predictions.csv`)  
 /notebooks/          → Jupyter notebook per tahap CBR  
 ```
+NB: Ekstrak cases.zip pada folder /data/processed terlebih dahulu sebelum menjalankan script
